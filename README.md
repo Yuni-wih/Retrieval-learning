@@ -8,7 +8,6 @@
 * [Positional Indexes](#positional-indexes)
 * [Selenium](#selenium)
 
-------
 ## Content
 
 #### Boolean Retrieval
